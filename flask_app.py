@@ -101,6 +101,7 @@ def index():
                             reviews.append(data_dict)
                         except:
                             print("list not found ....")
+                            return None
 
 
 
