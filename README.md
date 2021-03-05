@@ -3,6 +3,8 @@
 please visit the following link
 deployed on heroku :   link :- https://reviewsproduct123.herokuapp.com/
 
+you can find the reviews of the electronics product for example .. ( iphone 7 , tv , computers , samasung a30) etc
+
  In Data Science Data collection strategy also plays important role in order to get the appropriate data.
  we don't depend on sigle source of the data , we try to collect data from various Sources 
  like that Web Scrapping also the one of the best part of data collection strategy.
