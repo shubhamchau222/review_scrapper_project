@@ -1,6 +1,5 @@
 # review_scrapper_project
 
-please visit the following link
 deployed on heroku :   link :- https://reviewsproduct123.herokuapp.com/
 
 you can find the reviews of the electronics product for example .. ( iphone 7 , tv , computers , samasung a30) etc
