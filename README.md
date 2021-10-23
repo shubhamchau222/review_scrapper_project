@@ -13,7 +13,7 @@ Importance :
  
  Project Details : - 
  
-    1 . To known the requirements of the project , kindly read the <requirements.txt> file.
+    1 . To know the requirements of the project , kindly read the <requirements.txt> file.
     
     2.  In this project we are trying to scrapp the reviews of any product which is available on the flipkart.
     
